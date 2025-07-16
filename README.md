@@ -6,7 +6,7 @@ A simple conversational AI agent that answers questions about Thoughtful AI's he
 
 Watch the application in action:
 
-https://github.com/user-attachments/assets/demo.mov
+https://github.com/mrjoema/ai-agent-chat-challenge/blob/main/demo.mov
 
 *Demo video showing the chat interface, question matching, fallback responses, and error handling in action.*
 
