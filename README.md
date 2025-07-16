@@ -2,6 +2,16 @@
 
 A simple conversational AI agent that answers questions about Thoughtful AI's healthcare automation products.
 
+## 🎬 Demo
+
+Watch the application in action:
+
+https://github.com/user-attachments/assets/demo.mov
+
+*Demo video showing the chat interface, question matching, fallback responses, and error handling in action.*
+
+> **Note**: If the video doesn't play above, you can download and view `demo.mov` locally from the repository.
+
 ## Features
 
 - **Intelligent Question Matching**: Uses TF-IDF vectorization for finding relevant answers
